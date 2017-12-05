@@ -1,0 +1,5 @@
+Ethan Anderson
+cse374 - hw5
+
+I am quite happy with the way that I am handling printing and freeing of nodes. The code that is involved is really simple. I am also happy with starting to learn more about how to handle user input in a better way than just with scanf. Though I would still like to learn a little more about hwo to strip a users input of leading spaces and other bad input.
+I am least confident in the way that I am allocating the word for each TrieNode struct. I used calloc which is nice for it's automatic zeroing of the char array, but it's slower and I think this could be probably better done in malloc.
